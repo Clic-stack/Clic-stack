@@ -1,14 +1,25 @@
 <div align="center">
-  
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e053711099689.560f15c13637e.gif" width="280" alt="Code Rain Flow" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d053711099689.560f15c13637e.gif" width="280" alt="Neural Network Flow" />
+    </td>
+  </tr>
+</table>
+
 # 👩‍💻 Clio Salgado
 ### **Data Scientist & Full-Stack Developer**
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clio-salgado-845a93319/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clioanahi@gmail.com)
 
 ---
 
-> "Transforming complex datasets into scalable architectures and intelligent business solutions."
+> "Bridging the gap: Feeding robust code flow into intelligent neural processing for scalable business solutions."
 > *Based in Guadalajara's Tech Hub, MX* 📍
 
 </div>
@@ -43,8 +54,8 @@
 | 🚀 Proyecto | 📄 Valor Técnico | 🛠️ Stack |
 | :--- | :--- | :--- |
 | [**User Management**](https://github.com/Clic-stack/fullstack-user-management) | **Escalabilidad.** Evolución de prototipo a arquitectura profesional con persistencia real. | `Node.js` `PostgreSQL` `React` |
-| [**Blog Database**](**https://github.com/Clic-stack/BLOG_DATABASE**) | **Data Modeling.** Diseño relacional robusto para manejo de contenido. | `SQL` `PostgreSQL` |
-| [**GalleryMovies**](**https://github.com/Clic-stack/MoviesApp-FullStack-Project**) | **UX/UI.** Manejo de estados complejos y consumo de APIs dinámicas. | `React` `REST API` |
+| [**Blog Database**](https://github.com/Clic-stack/BLOG_DATABASE) | **Data Modeling.** Diseño relacional robusto para manejo de contenido. | `SQL` `PostgreSQL` |
+| [**GalleryMovies**](https://github.com/Clic-stack/MoviesApp-FullStack-Project) | **UX/UI.** Manejo de estados complejos y consumo de APIs dinámicas. | `React` `REST API` |
 
 </div>
 
@@ -65,6 +76,6 @@
 
 <div align="center">
   
-**¿Buscas integrar análisis de datos y desarrollo robusto en tu equipo?** [¡Conectemos!](mailto:clioanahi@gmail.com) 🚀
+**¿Buscas un perfil bilingüe que integre datos e ingeniería robusta?** [Hablemos!](mailto:clioanahi@gmail.com) 🚀
 
 </div>
