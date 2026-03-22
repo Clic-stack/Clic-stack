@@ -1,15 +1,9 @@
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e053711099689.560f15c13637e.gif" width="280" alt="Code Rain Flow" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d053711099689.560f15c13637e.gif" width="280" alt="Neural Network Flow" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e053711099689.560f15c13637e.gif" width="48%" alt="Code Rain Flow" style="display:inline-block; margin-right: 1%;" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d053711099689.560f15c13637e.gif" width="48%" alt="Neural Network Flow" style="display:inline-block;" />
+</p>
 
 # 👩‍💻 Clio Salgado
 ### **Data Scientist & Full-Stack Developer**
@@ -76,6 +70,6 @@
 
 <div align="center">
   
-**¿Buscas un perfil bilingüe que integre datos e ingeniería robusta?** [Hablemos!](mailto:clioanahi@gmail.com) 🚀
+**¿Buscas un perfil bilingüe que integre datos e ingeniería robusta?** [¡Hablemos!](mailto:clioanahi@gmail.com) 🚀
 
 </div>
