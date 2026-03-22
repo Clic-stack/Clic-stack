@@ -1,10 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e053711099689.560f15c13637e.gif" width="48%" alt="Code Rain Flow" style="display:inline-block; margin-right: 1%;" />
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d053711099689.560f15c13637e.gif" width="48%" alt="Neural Network Flow" style="display:inline-block;" />
-</p>
-
 # 👩‍💻 Clio Salgado
 ### **Data Scientist & Full-Stack Developer**
 
@@ -13,7 +8,21 @@
 
 ---
 
-> "Bridging the gap: Feeding robust code flow into intelligent neural processing for scalable business solutions."
+</div>
+
+### 📊 Git Activity as Data Art / Visualización de Datos de Git
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Clic-stack&layout=compact&langs_count=8&theme=transparent&title_color=58a6ff&text_color=a5d6ff&icon_color=58a6ff&border_color=30363d" width="48%" alt="Weekly Commit Data" style="display:inline-block; margin-right: 1%;" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clic-stack&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=a5d6ff&area=true&hide_border=true" width="48%" alt="Isometric Git Activity Cube" style="display:inline-block;" />
+</p>
+
+<div align="center">
+
+---
+
+> "Transforming complex datasets into scalable architectures and intelligent business solutions."
 > *Based in Guadalajara's Tech Hub, MX* 📍
 
 </div>
