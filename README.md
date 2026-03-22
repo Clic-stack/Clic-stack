@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e053711099689.560f15c13637e.gif" width="100%" height="100px" style="object-fit: cover; border-radius: 10px;" />
+
+---
+
 # 👩‍💻 Clio Salgado
 ### **Data Scientist & Full-Stack Developer**
 
