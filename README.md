@@ -1,21 +1,22 @@
+<div align="center">
+
 # ¡Hola! Soy Clio Salgado 👋
 ### 📊 Data Scientist | 💻 Full-Stack Developer | 📍 Guadalajara, MX
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Transformando_datos_en_decisiones-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Arquitectura_Web_Escalable-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-## 🗺️ Mi Enfoque Profesional / My Core Focus
-Apasionada por el punto de encuentro entre la **Ciencia de Datos** y el desarrollo de producto. Mi experiencia une el análisis riguroso de datos con la ingeniería de software para construir soluciones que no solo son inteligentes, sino que también son escalables y elegantes.
-
-*Transforming complex data into robust, scalable, and intuitive digital solutions. Bridging the gap between Data Science and Product Engineering.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clio-salgado-845a93319/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clioanahi@gmail.com)
 
 ---
 
-## 🚀 "Superpoderes" Técnicos / Tech Stack
+## 🗺️ Mi Enfoque / Core Focus
+**"Transformando datos complejos en arquitectura web inteligente."** *Bridging the gap between Data Science and Scalable Product Engineering.*
 
-<p align="left">
+</div>
+
+---
+
+### 🚀 Superpoderes Técnicos / Tech Stack
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -26,24 +27,29 @@ Apasionada por el punto de encuentro entre la **Ciencia de Datos** y el desarrol
 
 ---
 
-## 🔭 Proyectos que cuentan mi historia / Highlighted Projects
+### 🔭 Proyectos Destacados / Highlighted Projects
 
-* [**Full-Stack User Management**](https://github.com/Clic-stack/fullstack-user-management): La evolución técnica de un CRUD: de prototipo local a infraestructura profesional full-stack con persistencia real. (Pregúntame cómo limpié los submódulos de Git 😎).
-* [**BLOG_DATABASE**](https://github.com/Clic-stack/BLOG_DATABASE): Modelado de datos profesional para sistemas de contenido.
-* [**GalleryMovies**](https://github.com/Clic-stack/MoviesApp-FullStack-Project): Gestor de películas que demuestra manejo de estados complejos y consumo de APIs.
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| [**User Management**](https://github.com/Clic-stack/fullstack-user-management) | Evolución de un CRUD a arquitectura profesional con persistencia real. | Node, React, SQL |
+| [**Blog Database**](https://github.com/Clic-stack/BLOG_DATABASE) | Modelado de datos profesional y relacional para sistemas de contenido. | PostgreSQL |
+| [**GalleryMovies**](https://github.com/Clic-stack/MoviesApp-FullStack-Project) | Interfaz cinematográfica con manejo de estados complejos. | React, API Rest |
 
 ---
 
-## ⭐ Mi Actividad en GitHub / GitHub Activity
+### ⭐ Mi Actividad / GitHub Dynamics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Clic-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clic-stack&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clic-stack&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
 
-## 📫 Conectemos / Let's Connect
+<div align="center">
+  
+**¿Buscas una perfil bilingüe para tu equipo en Guadalajara?** ¡Hagamos que las cosas sucedan! 🚀
 
-¡Siempre abierta a colaborar en proyectos de Data Science o Desarrollo Web!
-* **LinkedIn:** [https://www.linkedin.com/in/clio-salgado-845a93319/]
-* 📧 **TU_CORREO_AQUÍ** (Haz un enlace para mayor facilidad: `[clio.salgado@email.com](mailto:clio.salgado@email.com)`)
+</div>
