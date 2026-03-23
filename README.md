@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0077B5&height=220&section=header&text=Clio%20Salgado&fontSize=75&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clic-stack&layout=compact&theme=dark&title_color=D4AF37&text_color=e6edf3&border_color=30363d&hide=html,css" width="100%" alt="Tech Stack de Clio" style="border-radius: 10px;" />
+
+<br/>
 
 ### 🚀 Data Scientist | Full-Stack Developer | Operational Leader
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Transforming+data+into+intelligence;Building+scalable+architectures;7+years+of+Operational+Leadership;Bilingual+Tech+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Transforming+data+into+intelligence;Building+scalable+architectures;7+years+of+Operational+Leadership" alt="Typing SVG" />
 </p>
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clio-salgado-845a93319/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clioanahi@gmail.com)
