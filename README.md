@@ -10,7 +10,7 @@
 ### 🚀 Data Scientist | Full-Stack Developer | Operational Leader
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Transforming+data+into+intelligence;Building+scalable+architectures;7+years+of+Operational+Leadership;Bilingual+Tech+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Transforming+data+into+intelligence;Building+scalable+architectures;7+years+of+Operational+Leadership" alt="Typing SVG" />
 </p>
 
 <p align="center">
