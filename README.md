@@ -4,18 +4,21 @@
 
 <br/>
 
-<img src="https://kodinger-readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=D4AF37&center=true&vCenter=true&width=800&height=100&lines=%3E+Initialing+Full-Stack+Environment...;%3E+Loading+React.js+%2B+Node.js+%2B+PostgreSQL;%3E+Data+Science+Mode%3A+Python+%2B+Pandas+%2B+Azure;%3E+Status%3A+Operational+Leader+Ready" alt="Typing SVG" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,python,pb,azure&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=%3E+Full-Stack+Developer+Ready;%3E+Data+Science+Mode+Active;%3E+7+Years+of+Operational+Leadership" alt="Typing SVG" />
+</p>
 
 <br/>
 
 ### 🚀 Data Scientist | Full-Stack Developer | Operational Leader
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Transforming+data+into+intelligence;Building+scalable+architectures;7+years+of+Operational+Leadership" alt="Typing SVG" />
-</p>
 
 </div>
 
+---
 ---
 
 ### 💡 About Me | Acerca de mí
