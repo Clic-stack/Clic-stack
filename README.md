@@ -135,6 +135,41 @@
 
 ---
 
+### <p align="center">🎓 Education & Professional Roadmap | Formación y Metas 🚀</p>
+
+<div align="center">
+
+<table width="90%">
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <strong>📊 Data Science, Business & Analytics</strong>
+      <ul>
+        <li><strong>B.S. in Data Science for Business (Big Data)</strong><br/><em>IEU University | Degree in Progress (2027)</em></li>
+        <li><strong>Industrial Chemical Technologist</strong><br/><em>CETI Technical Degree | Completed ✅</em></li>
+        <li><strong>Azure Data Scientist (DP-100)</strong><br/><em>Certification Target: 2026 🎯</em></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" align="left">
+      <strong>🌍 Languages & Development</strong>
+      <ul>
+        <li><strong>Full-Stack Web Development</strong><br/><em>Academlo | Completed ✅</em></li>
+        <li><strong>English Proficiency: C2 Level</strong><br/><em>Goal: 2027 | Advanced Speaker</em></li>
+        <li><strong>Azure Data Fundamentals (DP-900)</strong><br/><em>Learning Roadmap 2026</em></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Full_Stack_Completed-50C878?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roadmap-Azure_DP--100-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goal-English_C2-D4AF37?style=flat-square&logo=google-translate&logoColor=white" />
+</p>
+
+</div>
+
+---
+
 <div align="center">
 
 **Looking for a bilingual professional who integrates data and robust engineering?** **¿Buscas un perfil bilingüe que integre datos e ingeniería robusta?** [¡Let's talk! | ¡Hablemos!](mailto:clioanahi@gmail.com) 🚀
