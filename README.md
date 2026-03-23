@@ -3,12 +3,16 @@
 # 🌟 Clio Salgado
 ### 🚀 Data Scientist | Full-Stack Developer | Operational Leader
 
+<br/>
+
+*Based in Guadalajara's Tech Hub, MX* 📍
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clic-stack&bg_color=0d1117&color=D4AF37&line=D4AF37&point=e6edf3&area=true&hide_border=true&hide_title=true" width="100%" alt="Clio Salgado Activity Graph" style="border-radius: 10px;" />
 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,python,pb,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,nodejs,express,postgres,sequelize,python,neon&theme=dark" />
 </p>
 
 <p align="center">
@@ -49,7 +53,9 @@
   </tr>
 </table>
 
-<p align="center"><em>Based in Guadalajara's Tech Hub, MX</em> 📍</p>
+</div>
+
+---
 
 ---
 
@@ -59,35 +65,67 @@
   <tr>
     <td width="50%" valign="top">
       <h4>💻 Full-Stack Development</h4>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=000000&labelColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Data Science & Cloud</h4>
+      <h4>📊 Analytics & Data Science</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=neon&logoColor=black" />
+      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
+---
+
+### 🔭 Featured Projects | Proyectos Destacados
+
+<div align="center">
+  
+| 🚀 Project | 🧠 Technical Value / Valor Técnico | 🛠️ Stack |
+| :--- | :--- | :--- |
+| [**User Management**](https://github.com/Clic-stack/fullstack-user-management) | **Scalability.** Prototype evolution to a professional architecture. | `Node.js` `PostgreSQL` `React` |
+| [**Blog Database**](https://github.com/Clic-stack/BLOG_DATABASE) | **Data Modeling.** Robust relational design for content management. | `SQL` `PostgreSQL` |
+| [**GalleryMovies**](https://github.com/Clic-stack/MoviesApp-FullStack-Project) | **UX/UI.** Complex state management and dynamic API consumption. | `React` `REST API` |
+</div>
+
+---
+
 ### 📈 GitHub Analytics & Dynamics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clic-stack&show_icons=true&theme=dark&title_color=D4AF37&text_color=e6edf3&icon_color=D4AF37&border_color=D4AF37&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clic-stack&layout=compact&theme=dark&title_color=D4AF37&text_color=e6edf3&border_color=D4AF37&bg_color=0d1117" width="38%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Clic-stack&show_icons=true&theme=transparent&title_color=58a6ff&text_color=a5d6ff&icon_color=58a6ff&border_color=C0C0C0" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clic-stack&layout=compact&theme=transparent&title_color=58a6ff&text_color=a5d6ff&border_color=C0C0C0" width="38%" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clic-stack&theme=dark&currStreakNum=D4AF37&sideLabels=e6edf3&stroke=D4AF37&border=D4AF37&background=0d1117" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clic-stack&theme=dark&currStreakNum=D4AF37&sideLabels=e6edf3&stroke=D4AF37&border=C0C0C0&background=0d1117" width="100%" />
 </p>
 
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clic-stack/Clic-stack/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clic-stack/Clic-stack/output/github-contribution-grid-snake.svg">
