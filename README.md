@@ -4,10 +4,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-wakatime-wordcloud.vercel.app/api?username=Clic-stack&theme=react-dark&bg_color=0d1117&color=e6edf3&text_color=D4AF37&border_color=30363d" width="100%" />
-  <img src="https://github-readme-wakatime-wordcloud.vercel.app/api?username=Clic-stack&theme=react-light&bg_color=e6edf3&color=0d1117&text_color=D4AF37&border_color=30363d" width="100%" alt="Tech Stack Word Cloud de Clio" style="border-radius: 10px;" />
-</picture>
+<img src="https://kodinger-readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=D4AF37&center=true&vCenter=true&width=800&height=100&lines=%3E+Initialing+Full-Stack+Environment...;%3E+Loading+React.js+%2B+Node.js+%2B+PostgreSQL;%3E+Data+Science+Mode%3A+Python+%2B+Pandas+%2B+Azure;%3E+Status%3A+Operational+Leader+Ready" alt="Typing SVG" />
 
 <br/>
 
