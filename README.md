@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/**Transforming_data_into_intelligence**-50C878?style=flat-square&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Transforming_data_into_intelligence-50C878?style=flat-square&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Building_scalable_architectures-8A2BE2?style=flat-square&logoColor=white" /> 
   <img src="https://img.shields.io/badge/7_years_of_Operational_Leadership-FF7F50?style=flat-square&logoColor=white" />
 </p>
