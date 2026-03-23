@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Transforming_data_into_intelligence-50C878?style=flat-square&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Building_scalable_architectures-8A2BE2?style=flat-square&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/7_years_of_Operational_Leadership-FF7F50?style=flat-square&logoColor=white" />
+  <font size="4" color="#50C878"><b>Transforming Data into Intelligence</b></font><br>
+  <font size="4" color="#8A2BE2"><b>Building Scalable Architectures</b></font><br>
+  <font size="4" color="#FF7F50"><b>7 Years of Operational Leadership</b></font>
 </p>
 
 <p align="center">
