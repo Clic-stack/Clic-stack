@@ -20,6 +20,23 @@
 
 </div>
 
+### 📊 Git Activity as Data Art / Visualización de Datos de Git
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Clic-stack&layout=compact&langs_count=8&theme=transparent&title_color=58a6ff&text_color=a5d6ff&icon_color=58a6ff&border_color=30363d" width="48%" alt="Weekly Commit Data" style="display:inline-block; margin-right: 1%;" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clic-stack&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=a5d6ff&area=true&hide_border=true" width="48%" alt="Isometric Git Activity Cube" style="display:inline-block;" />
+</p>
+
+<div align="center">
+
+---
+
+> "Transforming complex datasets into scalable architectures and intelligent business solutions."
+> *Based in Guadalajara's Tech Hub, MX* 📍
+
+</div>
+
 ### 🛠️ Core Stack & Expertise
 
 <table width="100%">
@@ -64,15 +81,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clic-stack&layout=compact&theme=transparent&title_color=58a6ff&text_color=a5d6ff&border_color=30363d" width="38%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clic-stack/Clic-stack/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clic-stack/Clic-stack/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Clic-stack/Clic-stack/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clic-stack&theme=transparent&currStreakNum=58a6ff&sideLabels=a5d6ff&stroke=58a6ff&border=30363d" width="100%" />
+</p>
 
 ---
 
 <div align="center">
+
 
 **¿Buscas un perfil bilingüe que integre datos e ingeniería robusta?** [¡Hablemos!](mailto:clioanahi@gmail.com) 🚀
 
