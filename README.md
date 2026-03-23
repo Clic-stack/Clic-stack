@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Clic-stack&bg_color=0d1117&color=D4AF37&line=D4AF37&point=e6edf3&area=true&hide_border=true" width="100%" alt="Clio Salgado Activity Graph" style="border-radius: 10px;" />
-
-<br/>
-
+# 🌟 Clio Salgado
 ### 🚀 Data Scientist | Full-Stack Developer | Operational Leader
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Clic-stack&bg_color=0d1117&color=D4AF37&line=D4AF37&point=e6edf3&area=true&hide_border=true&hide_title=true" width="100%" alt="Clio Salgado Activity Graph" style="border-radius: 10px;" />
 
 <br/>
 
@@ -13,10 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=%3E+Full-Stack+Developer+Ready;%3E+Data+Science+Mode+Active;%3E+7+Years+of+Operational+Leadership" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=%3E+7+Years+of+Operational+Leadership;%3E+Transforming+data+into+intelligence" alt="Typing SVG" />
 </p>
-
-<br/>
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Transforming+data+into+intelligence;Building+scalable+architectures;7+years+of+Operational+Leadership;Bilingual+Tech+Professional" alt="Typing SVG" />
