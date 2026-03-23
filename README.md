@@ -12,11 +12,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=%3E+7+Years+of+Operational+Leadership;%3E+Transforming+data+into+intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=%3E+Full-Stack+Developer+Ready...;%3E+Data+Science+Mode+Active...;%3E+Bilingual+Tech+Professional" alt="Typing SVG" />
 </p>
-  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Transforming+data+into+intelligence;Building+scalable+architectures;7+years+of+Operational+Leadership;Bilingual+Tech+Professional" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Transforming_data_into_intelligence-D4AF37?style=flat-square&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Building_scalable_architectures-708090?style=flat-square&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/7_years_of_Operational_Leadership-58A6FF?style=flat-square&logoColor=white" />
 </p>
 
 <p align="center">
