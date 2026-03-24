@@ -32,8 +32,8 @@
   <a href="mailto:clioanahi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Clic-stack" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white&border_color=D4AF37" alt="Portfolio" />
+  <a href="https://portfolio-clio-salgado.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&border_color=D4AF37" alt="Portfolio" />
   </a>
 </p>
 
@@ -54,8 +54,6 @@
 </table>
 
 </div>
-
----
 
 ---
 
@@ -99,17 +97,15 @@
 
 ---
 
----
-
 ### 🔭 Featured Projects | Proyectos Destacados
 
 <div align="center">
   
 | 🚀 Project | 🧠 Technical Value / Valor Técnico | 🛠️ Stack |
 | :--- | :--- | :--- |
-| [**User Management**](https://github.com/Clic-stack/fullstack-user-management) | **Scalability.** Prototype evolution to a professional architecture. | `Node.js` `PostgreSQL` `React` |
-| [**Blog Database**](https://github.com/Clic-stack/BLOG_DATABASE) | **Data Modeling.** Robust relational design for content management. | `SQL` `PostgreSQL` |
-| [**GalleryMovies**](https://github.com/Clic-stack/MoviesApp-FullStack-Project) | **UX/UI.** Complex state management and dynamic API consumption. | `React` `REST API` |
+| [**Booking App**](https://github.com/Clic-stack/Booking-App) | **Backend Architecture & Testing.** Relational modeling (1:1, 1:N, M:M), login users, multimedia file management and automated testing suite. | `Node.js + Express` `PostgreSQL` `Sequelize` `Jest + Supertest` `JWT + bcrypt` `Cloudinary` |
+| [**GalleryMovies: Full-Stack Project**](https://github.com/Clic-stack/MoviesApp-FullStack-Project) | **Full-Stack Integration.** Complex N:M relationship management and cinematic UI with state synchronization. | `Node.js + Express` `PostgreSQL` `Sequelize` `React` `Redux` |
+| [**Auth Mailer API**](https://github.com/Clic-stack/Auth-Mailer-API) | **Security & User Lifecycle.** Robust authentication (JWT), email verification flow, and secure password hashing. | `Node.js + Express` `PostgreSQL` `Sequelize` `React` `JWT + bcrypt` `Nodemailer` |
 </div>
 
 ---
