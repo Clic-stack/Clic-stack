@@ -113,8 +113,8 @@
 ### 📈 GitHub Analytics & Dynamics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Clic-stack&show_icons=true&theme=transparent&title_color=58a6ff&text_color=a5d6ff&icon_color=58a6ff&border_color=C0C0C0" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Clic-stack&layout=compact&theme=transparent&title_color=58a6ff&text_color=a5d6ff&border_color=C0C0C0" width="38%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Clic-stack&show_icons=true&theme=dark&title_color=58a6ff&text_color=a5d6ff&icon_color=58a6ff&border_color=C0C0C0" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Clic-stack&layout=compact&theme=dark&title_color=58a6ff&text_color=a5d6ff&border_color=C0C0C0" width="38%" alt="Top Languages" />
 </p>
 
 <p align="center">
