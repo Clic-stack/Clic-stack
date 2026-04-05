@@ -113,8 +113,8 @@
 ### 📈 GitHub Analytics & Dynamics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clic-stack&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clic-stack&layout=compact&theme=tokyonight" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Clic-stack&show_icons=true&theme=transparent&title_color=58a6ff&text_color=a5d6ff&icon_color=58a6ff&border_color=C0C0C0" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clic-stack&layout=compact&theme=transparent&title_color=58a6ff&text_color=a5d6ff&border_color=C0C0C0" width="38%" alt="Top Languages" />
 </p>
 
 <p align="center">
