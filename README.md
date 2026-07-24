@@ -41,7 +41,8 @@
 
 ---
 
-### 💡 About Me | Acerca de mí
+### <p align="center">💡 About Me | Acerca de mí</p>
+
 <table border="0">
   <tr>
     <td width="50%">
@@ -57,7 +58,7 @@
 
 ---
 
-### 🛠️ Core Stack & Expertise | Tecnologías y Experiencia
+### <p align="center">🛠️ Core Stack & Expertise | Tecnologías y Experiencia</p>
 
 <table width="100%">
   <tr>
@@ -97,7 +98,7 @@
 
 ---
 
-### 🔭 Featured Projects | Proyectos Destacados
+### <p align="center">🔭 Featured Projects | Proyectos Destacados</p>
 
 <div align="center">
   
@@ -110,7 +111,7 @@
 
 ---
 
-### 📈 GitHub Analytics & Dynamics
+### <p align="center">📈 GitHub Analytics & Dynamics</p>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Clic-stack&show_icons=true&theme=dark&title_color=58a6ff&text_color=a5d6ff&icon_color=58a6ff&border_color=C0C0C0" width="48%" alt="GitHub Stats" />
@@ -130,36 +131,54 @@
 
 ---
 
-### <p align="center">🎓 Education & Professional Roadmap | Formación y Metas 🚀</p>
+### <p align="center">🎓 Education & Professional Roadmap | Formación y Metas ✨</p>
 
 <div align="center">
 
 <table width="90%">
   <tr>
-    <td width="50%" valign="top" align="left">
-      <strong>📊 Data Science, Business & Analytics</strong>
+    <td width="25%" valign="top" align="left">
+      <strong>🔮 Data Science, Business & Analytics 📈</strong><br/><br/>
       <ul>
-        <li><strong>B.S. in Data Science for Business (Big Data)</strong><br/><em>IEU University | Degree in Progress (2027)</em></li>
-        <li><strong>Industrial Chemical Technologist</strong><br/><em>CETI Technical Degree | Completed ✅</em></li>
-        <li><strong>Azure Data Scientist (DP-100)</strong><br/><em>Certification Target: 2026 🎯</em></li>
+        <li><strong>B.S. in Data Science for Business (Big Data)</strong><br/><em>IEU University 🎓 | Degree in Progress (2027) ⌛</em></li>
+        <li><strong>AWS Certified Machine Learning Engineer - Associate (MLA-C01)</strong><br/><em> Artificial Intelligence & MLOps (Data Science) 🤖 | Certification Target: 2027 🏹</em></li>
+        <li><strong>Microsoft Power BI Data Analyst (PL-300)</strong><br/><em>Business Intelligence and Analytics 📊 | Certification Target: 2026 🎯</em></li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="left">
-      <strong>🌍 Languages & Development</strong>
+    <td width="25%" valign="top" align="left">
+      <strong>🌐 Cloud & Development 💻</strong><br/><br/>
       <ul>
-        <li><strong>Full-Stack Web Development</strong><br/><em>Academlo | Completed ✅</em></li>
-        <li><strong>English Proficiency: C2 Level</strong><br/><em>Goal: 2027 | Advanced Speaker</em></li>
-        <li><strong>Azure Data Fundamentals (DP-900)</strong><br/><em>Learning Roadmap 2026</em></li>
+        <li><strong>AWS Certified Cloud Practitioner (CLF-C02)</strong><br/><em>Cloud Infrastructure & Core Services ☁️ | Certification Target: 2026 🏆 | Certification in Progress 🔄</em></li>
+        <li><strong>AWS Certified Developer - Associate (DVA-C02)</strong><br/><em>Full Stack Web Development & Cloud Engineering 💻 | Certification Target: 2026 🥇</em></li>
       </ul>
+    </td>
+    <td width="25%" valign="top" align="left">
+      <strong>🐘 Big Data & Data Engineering 🗄️</strong><br/><br/>
+      <ul>
+        <li><strong>Databricks Certified Data Engineer Associate ⚙️</strong><br/><em>Certification Target: 2027 🏁</em></li>
+      </ul>
+    </td>
+    <td width="25%" valign="top" align="left">
+      <strong>🌍 Languages</strong><br/><br/>
+     <ul>
+        <li><strong>English Proficiency: C2 Level 📜</strong><br/><em>Goal: 2027 🚀 | Advanced Speaker | Language in Progress ⏳ [████████░░]</em></li>
+     </ul> 
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Full_Stack_Completed-50C878?style=flat-square&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roadmap-Azure_DP--100-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Goal-English_C2-D4AF37?style=flat-square&logo=google-translate&logoColor=white" />
-</p>
+### <p align="center">📍 Completed Goals | Metas Cumplidas 🎖️</p>
+
+<table width="90%">
+  <tr>
+    <td width="100%" valign="top" align="left">
+      <ul>
+        <li><strong>Full-Stack Web Development</strong><br/><em>Academlo | Completed on December 2025 ✅</em></li>
+        <li><strong>Industrial Chemical Technologist</strong><br/><em>CETI Technical Degree | Completed on August 2017 ✅</em></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 </div>
 
