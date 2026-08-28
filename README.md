@@ -7,7 +7,7 @@
 
 *Based in Guadalajara's Tech Hub, MX* 📍
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Clic-stack&bg_color=0d1117&color=D4AF37&line=D4AF37&point=e6edf3&area=true&hide_border=true&hide_title=true" width="100%" alt="Clio Salgado Activity Graph" style="border-radius: 10px;" />
+<img src="https://clio-activity-graph.vercel.app/graph?username=Clic-stack&bg_color=0d1117&color=D4AF37&line=D4AF37&point=e6edf3&area=true&hide_border=true&hide_title=true" width="100%" alt="Clio Salgado Activity Graph" style="border-radius: 10px;" />
 
 <br/>
 
@@ -119,7 +119,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clic-stack&theme=dark&currStreakNum=D4AF37&sideLabels=e6edf3&stroke=D4AF37&border=C0C0C0&background=0d1117" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Clic-stack&theme=dark&background=0D1117&border=0D1117&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=D4AF37&sideTitle=D4AF37&dates=E6EDF3" width="100%" alt="Clio Salgado GitHub Streak" />
 </p>
 
   <picture>
